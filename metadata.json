@@ -1,0 +1,7 @@
+{
+  "name": "AI Mystery Mansion: Interactive Murder Mystery",
+  "description": "A multiplayer interactive murder mystery game powered by Gemini AI. Create custom scripts, assume secret roles, and solve puzzles with voice-enabled DM guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
